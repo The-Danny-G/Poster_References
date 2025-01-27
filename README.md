@@ -1,14 +1,3 @@
----
-title: "References"
-author: "Daniel Gardner"
-date: "2025-01-27"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # References
 
 The main paper our research is based off, and which describes the pipeline as shown in the three bubbles is:
